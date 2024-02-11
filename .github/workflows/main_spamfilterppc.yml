@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'SpamFilterPPC'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66990D53E5A741AA8AA41292D83A89CE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5C5909C788A4187AF9CBA9EDE257415 }}
